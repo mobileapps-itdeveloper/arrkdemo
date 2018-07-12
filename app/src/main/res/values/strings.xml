@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArrkDemo</string>
+    <string name="title_star_war_characters">StarWar Characters</string>
+    <string name="title_character_detail">Character Detail</string>
+    <string name="progress_message">Requesting data...</string>
+    <string name="label_name">Name</string>
+    <string name="label_height">Height</string>
+    <string name="label_record_created">Record Created</string>
+    <string name="label_mass">Mass</string>
+    <string name="try_again_message">Do you want to try again.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error">Error</string>
+    <string name="internet_error">No internet connection, Please connect to internet and try again.</string>
+</resources>
